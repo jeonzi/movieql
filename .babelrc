@@ -1,0 +1,5 @@
+// babel을 위한 모든 환경설정을 넣을 수있다. 그 중 꼭  "presets" : ["env", "stage-3"]
+
+{
+    "presets" : ["env", "stage-3"]
+}
